@@ -1,4 +1,4 @@
-<h1 align="center">hey, i’m jacob luna</h1>
+<h1 align="center">hey, i’m jacob luna 👋</h1>
 
 ## about
 
