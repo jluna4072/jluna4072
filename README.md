@@ -18,8 +18,10 @@ i like building developer tools, especially when they turn a repetitive task int
 **frameworks & testing**
 
 ![React](https://img.shields.io/badge/React-23466D?style=for-the-badge&logo=react&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-23466D?style=for-the-badge&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-23466D?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-23466D?style=for-the-badge&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-23466D?style=for-the-badge&logo=flask&logoColor=white)
-
-guice · flumejava · junit · mockito
+![Guice](https://img.shields.io/badge/Guice-23466D?style=for-the-badge)
+![FlumeJava](https://img.shields.io/badge/FlumeJava-23466D?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-23466D?style=for-the-badge)
+![Mockito](https://img.shields.io/badge/Mockito-23466D?style=for-the-badge)
 
 **cloud & infrastructure**
 
@@ -32,5 +34,7 @@ guice · flumejava · junit · mockito
 **developer tools & ai**
 
 ![Git](https://img.shields.io/badge/Git-414C62?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-414C62?style=for-the-badge&logo=gitlab&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-414C62?style=for-the-badge&logo=modelcontextprotocol&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-414C62?style=for-the-badge&logo=langchain&logoColor=white)
-
-llm evaluation · presidio · faiss · claude
+![LLM evaluation](https://img.shields.io/badge/LLM%20evaluation-414C62?style=for-the-badge)
+![Presidio](https://img.shields.io/badge/Presidio-414C62?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-414C62?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-414C62?style=for-the-badge)
