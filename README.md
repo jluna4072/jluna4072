@@ -33,10 +33,9 @@ i like building developer tools, especially when they turn a repetitive task int
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2D4D60?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-2D4D60?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-2D4D60?style=for-the-badge&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-2D4D60?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-**developer tools & ai**
+**developer tools**
 
 ![Git](https://img.shields.io/badge/Git-414C62?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-414C62?style=for-the-badge&logo=gitlab&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-414C62?style=for-the-badge&logo=modelcontextprotocol&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-414C62?style=for-the-badge&logo=langchain&logoColor=white)
 ![LLM evaluation](https://img.shields.io/badge/LLM%20evaluation-414C62?style=for-the-badge)
 ![Presidio](https://img.shields.io/badge/Presidio-414C62?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-414C62?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-414C62?style=for-the-badge)
