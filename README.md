@@ -6,7 +6,7 @@ i like building developer tools, especially when they turn a repetitive task int
 
 - computer science @ [utep](https://www.utep.edu/) · class of 2028
 - incoming swe intern @ [datadog](https://www.datadoghq.com/) · winter 2027
-- previously interned at datadog and google, working on test automation and shared drive exports
+- previously interned at datadog and google
 - say hi on [linkedin](https://www.linkedin.com/in/jluna4072/)
 
 ## tech stack
